@@ -10,5 +10,6 @@ Edition ENI
 *Auteur(s)*
 __Jean-Marc BARANGER - Théo SCHOMAKER__
 
+---
 __AffichageVarEnv__ 
 > Affiche le contenu des variables d'environnement : HOME, PATH, USER et PWD 
