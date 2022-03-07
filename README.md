@@ -11,5 +11,5 @@ Edition ENI
 __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 ---
-__AffichageVarEnv__ 
+[__AffichageVarEnv__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AfficheVarEnv.sh)
 > Affiche le contenu des variables d'environnement : HOME, PATH, USER et PWD 
