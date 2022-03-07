@@ -13,3 +13,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 ---
 [__AffichageVarEnv__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AfficheVarEnv.sh)
 > Affiche le contenu des variables d'environnement : HOME, PATH, USER et PWD 
+
+[__VarLocGlob1__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/VarLocGlob.sh)
+> Utilisation des quotes inverses `commande` ou $(commande)
