@@ -22,3 +22,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 [__ChercheUser__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/ChercheUser.sh)
 > Recherche utilisateur en paramètre $1 avec la commande Grep et ^ pour début de ligne sur le fichier /etc/passwd
+
+[__vi2__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/vi2.sh)
+> Générer un fichier qui porte un nom différent aavec la variable $$ portant le numéro du processus
