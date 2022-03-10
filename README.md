@@ -27,4 +27,5 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Générer un fichier qui porte un nom différent avec la variable $$ portant le numéro du processus
 
 [__InfoSys__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/InfoSys.sh)
-> Mise en oeuvre de la commande __set__ et des paramètres de position
+> Mise en oeuvre de la commande __set__ 
+et des paramètres de position
