@@ -19,3 +19,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 [__AfficheRep__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AfficheRep.sh)
 > Paramètres $0 $1 et \n permet d'insérer un passage à la ligne
+
+[__ChercheUser__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/ChercheUser.sh)
+> Recherche utilisateur en paramètre $1 avec la commande Grep et ^ pour début de ligne sur le fichier /etc/passwd
