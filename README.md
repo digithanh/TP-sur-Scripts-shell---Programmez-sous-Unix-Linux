@@ -28,4 +28,4 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 [__InfoSys__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/InfoSys.sh)
 > Mise en oeuvre de la commande __set__ 
-et des paramètres de position
+> et des paramètres de position
