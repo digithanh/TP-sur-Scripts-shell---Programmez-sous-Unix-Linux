@@ -33,5 +33,5 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 Information sur la date et l'heure
 Mise en oeuvre de :
 > - la commande set
-- variables de position
-- variable IFS
+> - variables de position
+> - variable IFS
