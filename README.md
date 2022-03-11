@@ -31,8 +31,7 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 [__InfoDate__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/InfoDate.sh)
 > Information sur la date et l'heure
-<br/>
-Mise en oeuvre de :
-- la commande set
-- variables de position
-- variable IFS
+> Mise en oeuvre de :
+> - la commande set
+> - variables de position
+> - variable IFS
