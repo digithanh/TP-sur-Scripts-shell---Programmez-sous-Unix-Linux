@@ -30,8 +30,10 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Mise en oeuvre de la commande __set__ et des paramètres de position
 
 [__InfoDate__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/InfoDate.sh)
+```
 Information sur la date et l'heure
 Mise en oeuvre de :
-> - la commande set
-> - variables de position
-> - variable IFS
+- la commande set
+- variables de position
+- variable IFS
+```
