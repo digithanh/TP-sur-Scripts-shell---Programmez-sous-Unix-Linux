@@ -35,3 +35,10 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > - la commande set
 > - variables de position
 > - variable IFS
+
+7. [__calcul__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/calcul.sh)
+> Opérateurs arithmétiques.<br/>
+> Mise en oeuvre de :
+> - calcul avec la commande __expr__ peut être remplacée par (( expression arithmétique ))
+> - caractère d'échapement pour la multiplication \* 
+> - Mise en place de la structure case
