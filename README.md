@@ -50,3 +50,7 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > - Créer et vérifier si le fichier de sortie existe, le créer si besoin.
 > - Vérifier la redondance de l'IP dans le fichier avec la commande __grep__ .
 > - Ecrire l'IP dans un fichier de sortie. 
+
+10. [__NumMois__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/NumMois.sh)
+> Saisie non sécurisé du numéro du mois.
+> Mise en oeuvre de la structure __case__ .
