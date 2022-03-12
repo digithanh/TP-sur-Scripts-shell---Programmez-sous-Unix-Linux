@@ -47,6 +47,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Vérification de la validité d'une adresse IP par les 4 octects qui la constituent. La valeur décimal d'un octect est comprise entre 1 et 255.
 > Mise en oeuvre de :
 > - Utilisation du test [ $1 -le 0 -o $1 -ge 255 ]
-> - Vérifier si le fichier existe, le créer si besoin.
+> - Créer et vérifier si le fichier de sortie existe, le créer si besoin.
 > - Vérifier la redondance de l'IP dans le fichier avec la commande __grep__ .
 > - Ecrire l'IP dans un fichier de sortie. 
