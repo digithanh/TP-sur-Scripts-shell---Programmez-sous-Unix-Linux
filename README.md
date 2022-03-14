@@ -56,6 +56,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Mise en oeuvre de la structure __case__ .
 
 11. [__JourDate__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/JourDate.sh)
-> Saisir langue pour avoir la transposition de la date
+> Saisir langue pour avoir la transposition de la date.
 > Mise en oeuvre de la structure __case__ avec stockage de multiples variables dans les choix.
 > Mise en oeuvre des conditions dans if && .
