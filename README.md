@@ -67,3 +67,10 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 13. [__Calcul8__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Calcul8.sh)
 > Saisie sécurisée de l'opération.
+
+14. [__MinMax__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/MinMax.sh)
+> Saisie d'une série de 10 nombres positifs.
+> Mise en oeuvre de :
+> - Boucle while.
+> - Concatenation de variables
+> - Decoupage avec __set__
