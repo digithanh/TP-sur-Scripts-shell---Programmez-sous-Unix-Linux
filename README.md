@@ -59,3 +59,11 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Saisir langue pour avoir la transposition de la date.
 > Mise en oeuvre de la structure __case__ avec stockage de multiples variables dans les choix.
 > Mise en oeuvre des conditions dans if && .
+
+12. [__Calcul7__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Calcul7.sh)
+> Mise en oeuvre de :
+> - la commande shift.
+> - la structure de boucle : while. 
+
+13. [__Calcul8__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Calcul8.sh)
+> Saisie sécurisée de l'opération.
