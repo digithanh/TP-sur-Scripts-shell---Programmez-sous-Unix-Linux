@@ -77,3 +77,7 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 15. [__TableMultiplication__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/TableMultiplication.sh)
 > Saisie d'un nombre pour avoir la table de multiplication de celui ci.
+
+16. [__NbFicRep__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/NbFicRep.sh)
+> Compte le nombre de fichiers dans les répertoires donnés en argument.
+> Mise en oeuvre de la commande FOR
