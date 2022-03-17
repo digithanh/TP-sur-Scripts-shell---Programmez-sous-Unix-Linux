@@ -79,5 +79,9 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Saisie d'un nombre pour avoir la table de multiplication de celui ci.
 
 16. [__NbFicRep__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/NbFicRep.sh)
-> Compte le nombre de fichiers dans les répertoires donnés en argument.
+> Compte le nombre de fichiers dans les répertoires donnés en argument.<br/>
 > Mise en oeuvre de la commande FOR
+
+16. [__NumMois1__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/NumMois1.sh)
+> Saisie sécurisée du numéro du mois.<br/>
+> L'utilisateur répète le traitement tant qu'il répond oui.
