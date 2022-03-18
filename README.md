@@ -85,3 +85,9 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 16. [__NumMois1__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/NumMois1.sh)
 > Saisie sécurisée du numéro du mois.<br/>
 > L'utilisateur répète le traitement tant qu'il répond oui.
+
+17. [__AnalyseRep__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AnalyseRep.sh)
+> Exécuter en root, analyse du répertoire /dev.<br/>
+> Compte le nombre de répertoires, des liens symboliques, fichiers spéciaux et fichiers ordinaires.<br/>
+> Il n'y a pas d'option de test des liens symboliques la commande grep sera utilisé.<br/>
+
