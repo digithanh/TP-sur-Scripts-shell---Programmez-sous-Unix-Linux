@@ -91,5 +91,5 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Compte le nombre de répertoires, des liens symboliques, fichiers spéciaux et fichiers ordinaires.<br/>
 > Il n'y a pas d'option de test des liens symboliques la commande grep sera utilisé.<br/>
 
-18. [__Permissions__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Permission.sh)
+18. [__Permissions__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Permissions.sh)
 > Saisie d'un répertoire pour avoir la liste des permissions suivant les fichiers.<br/>
