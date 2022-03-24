@@ -93,3 +93,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 18. [__Permissions__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/Permissions.sh)
 > Saisie d'un répertoire pour avoir la liste des permissions suivant les fichiers.<br/>
+
+18. [__AlerteUser__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AlerteUser.sh)
+> Mise en oeuvre de la commande break qui permet de sortir d'une boucle prématurément.<br/>
