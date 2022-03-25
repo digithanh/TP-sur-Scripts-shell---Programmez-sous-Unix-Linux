@@ -96,3 +96,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 18. [__AlerteUser__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/AlerteUser.sh)
 > Mise en oeuvre de la commande break qui permet de sortir d'une boucle prématurément.<br/>
+
+19. [__ValiderAdRx__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/ValiderAdRx.sh)
+> Supprimer les adresses IP incorrectes dans le fichier dont le nom est transmis en paramètres.<br/>
