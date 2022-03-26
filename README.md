@@ -102,4 +102,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 
 20. [__debug__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/debug.sh)
 > Première possibilité de debug et de mettre dans le shebang -x pour tracer toutes les instructions.<br/>
-> Deuxième possibilité, présente l'avantage d'activer le debug à certains endroits du programme en mettant set -x et set +x entre les instructions à tracer. En Ksh/Bash on peut mettre set -o xtrace et set +o xtrace.
+> Deuxième possibilité, présente l'avantage d'activer le debug à certains endroits du programme en mettant set -x et set +x entre les instructions à tracer. En Ksh/Bash on peut mettre set -o xtrace et set +o xtrace.<br/>
+> Troisième possibilité, au lancement du script ajouter le paramètre -x <br/>
+> sh -x debug.sh
