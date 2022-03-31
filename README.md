@@ -105,3 +105,6 @@ __Jean-Marc BARANGER - Théo SCHOMAKER__
 > Deuxième possibilité, présente l'avantage d'activer le debug à certains endroits du programme en mettant set -x et set +x entre les instructions à tracer. En Ksh/Bash on peut mettre set -o xtrace et set +o xtrace.<br/>
 > Troisième possibilité, au lancement du script ajouter le paramètre -x <br/>
 > sh -x debug.sh
+
+20. [__KillProcessus__](https://github.com/digithanh/TP-sur-Scripts-shell---Programmez-sous-Unix-Linux/blob/main/KillProcessus.sh)
+> Tuer les processus dont le nom a été fourni en paramètre du script.<br/>
